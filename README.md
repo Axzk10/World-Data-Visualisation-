@@ -1,8 +1,8 @@
-Project Overview
+# Project Overview
 This project showcases my skills as a data analyst, emphasizing data cleaning, transformation, critical thinking, and data visualization using the Wealth of Nations dataset. I employed Excel for comprehensive data preparation, leveraging macros for streamlined report generation. The transformed dataset is used to create an interactive and insightful dashboard in Tableau.
 
-Project Highlights
-Data Cleaning Expertise
+# Project Structure
+Data Cleaning Expertise: This section furnishes a comprehensive account of the data cleansing process executed in Excel
 
 Data Transformation Mastery: Meticulously cleaned and transformed the Wealth of Nations dataset in Excel, ensuring data accuracy and reliability for analysis.
 
