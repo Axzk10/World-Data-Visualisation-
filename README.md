@@ -38,6 +38,6 @@ If you have any questions or require any assistance, please don't hesitate to re
 Aqib Khan
 
 # License
-This project is licensed under the [![License: MIT](https://opensource.org/licenses/MIT) where you can modify and adapt the code to your specific needs.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) where you can modify and adapt the code to your specific needs.
 
 
