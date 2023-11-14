@@ -37,6 +37,6 @@ If you have any questions or require any assistance, please don't hesitate to re
 Aqib Khan
 
 # License
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
+This project is licensed under the [MIT License] where you can modify and adapt the code to your specific needs.
 
 
