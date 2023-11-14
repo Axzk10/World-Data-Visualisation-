@@ -4,22 +4,23 @@
 This project, "Global Economic Insights: Top 20 Countries Analysis," offers a comprehensive analysis of key economic indicators for the top 20 countries. It uses the Wealth of Nations dataset to query data for anaylsis. The analysis was conducted using Excel and Tableau, encompassing data cleaning, transformation, macro automation, and visualization.
 
 # Project Structure
-Data Cleaning Expertise: This section furnishes a comprehensive account of the data cleansing process executed in Excel
-
-Data Transformation Mastery: Meticulously cleaned and transformed the Wealth of Nations dataset in Excel, ensuring data accuracy and reliability for analysis.
-
-Excel Macros: Developed macros for automated report generation, including tasks like data creation, saving, and copying, enhancing efficiency in data management.
-
-Tableau Dashboard: Utilized Tableau to create a dynamic and visually appealing dashboard, providing meaningful insights into the Wealth of Nations data.
-
-# Skills Demonstrated
-Data Cleansing: This section provides a detailed overview of the data cleansing process conducted in Excel, explaining the meticulous procedures used to enhance data quality.
+Data Cleansing: This section provides a detailed overview of the data cleansing process conducted in Excel, explaining the procedures used to enhance data quality. This involved Identification and Handling of Missing Values
+Removal of Duplicate Entries, and Consistency Checks
 
 Data Transformation: Explore the intricacies of data transformation, examining the detailed procedures employed to convert the dataset into a powerful analytical resource.
 
 Critical Analytical Insights: Gain insights into the project's intellectual foundation as it reveals the rationale behind data analysis decisions, exposing the strategy guiding dataset selection, feature engineering, and analytical approaches.
 
 Data Visualization Excellence: Explore the interactive Tableau dashboard, filled with visually compelling representations that unveil profound insights from the dataset. It features interactivity and a user-friendly interface for seamless data exploration.
+
+# Skills Demonstrated
+Expertise in Data Cleansing: Employing precise data scrubbing techniques within Excel, I meticulously addressed issues such as missing values, duplicates, and inconsistencies. This rigorous process aimed to ensure the dataset's pristine quality and integrity.
+
+Mastery in Data Transformation: Advanced methods of data transformation were adeptly executed in Excel, involving the orchestration of data fusion, partitioning, and aggregation. These techniques were applied to unlock latent insights concealed within the dataset.
+
+Prowess in Critical Analytics: At the core of the project lies a commitment to astute data-driven decision-making. This commitment is manifested through adept data selection and analytical methodologies, ultimately leading to the extraction of valuable insights.
+
+Competence in Exemplary Data Visualization: Leveraging the capabilities of Tableau, we meticulously crafted a captivating and interactive dashboard. This dashboard serves to amplify the narrative of the dataset, offering a plethora of sophisticated visual representations. Each visualization provides a unique perspective for nuanced exploration.
 
 # Usage
 Experience the Tableau dashboard online [here](https://public.tableau.com/app/profile/aqib.khan2231/viz/WealthofNationsAK/Dashboard1?publish=yes).
@@ -37,6 +38,6 @@ If you have any questions or require any assistance, please don't hesitate to re
 Aqib Khan
 
 # License
-This project is licensed under the [MIT License] where you can modify and adapt the code to your specific needs.
+This project is licensed under the [![License: MIT](https://opensource.org/licenses/MIT) where you can modify and adapt the code to your specific needs.
 
 
