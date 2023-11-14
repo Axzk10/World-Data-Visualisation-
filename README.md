@@ -22,4 +22,21 @@ Critical Analytical Insights: Gain insights into the project's intellectual foun
 Data Visualization Excellence: Explore the interactive Tableau dashboard, filled with visually compelling representations that unveil profound insights from the dataset. It features interactivity and a user-friendly interface for seamless data exploration.
 
 # Usage
-Experience the Tableau dashboard online [here](https://public.tableau.com/app/profile/aqib.khan2231/viz/WealthofNationsAK/Dashboard1?publish=yes)
+Experience the Tableau dashboard online [here](https://public.tableau.com/app/profile/aqib.khan2231/viz/WealthofNationsAK/Dashboard1?publish=yes).
+
+# Getting Started
+To replicate the analysis or contribute to the project please follow the following steps:
+
+1. Clone the repository: 
+2. Open Excel files in the "Data" folder for raw datasets.
+3. Review the Tableau workbook in the "Tableau" folder for visualization details.
+
+If you have any questions or require any assistance, please don't hesitate to reach out. 
+
+# Contributors
+Aqib Khan
+
+# License
+This project is licensed under the [License Name] - see the LICENSE.md file for details.
+
+
